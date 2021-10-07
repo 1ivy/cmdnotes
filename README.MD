@@ -36,9 +36,9 @@ git status #when in doubt, git status 🧠
 ```
 
 ### Vim:
-🔗[Learn Vim blog post](https://danielmiessler.com/study/vim/)
-🔗[Learn Vim Game](https://vim-adventures.com/)
-🔗[Learn Vim book on Github](https://github.com/iggredible/Learn-Vim)
+* 🔗[Learn Vim blog post](https://danielmiessler.com/study/vim/)
+* 🔗[Learn Vim Game](https://vim-adventures.com/)
+* 🔗[Learn Vim book on Github](https://github.com/iggredible/Learn-Vim)
 
 ```shell
 vi README.md #create a file called README.md and open it in the magical land of Vim
@@ -55,8 +55,8 @@ l #right → 👉
 
 ```
 ### Linux:
-🔗[Debian Docs](https://www.debian.org/doc/manuals/debian-reference/pr01.en.html)
-🔗[tldr](https://tldr.ostera.io/)
+* 🔗[Debian Docs](https://www.debian.org/doc/manuals/debian-reference/pr01.en.html)
+* 🔗[tldr](https://tldr.ostera.io/)
 
 ```shell
 code . #open in VSCode
