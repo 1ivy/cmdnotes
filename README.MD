@@ -52,6 +52,20 @@ l #right → 👉
 ```
 ### Linux:
 ```shell
+code . #open in VSCode
+CTRL ~ #open terminal in VSCode
+CTRL c #kill it now, make it stop
+
+sudo apt update && sudo apt upgrade
+
+❤ find package -> install package❤ 
+
+sudo apt search ssh-keygen #search for ssh packages
+sudo apt install openssh-client
+
+
+find -name "wow*"
+find -name "*wow*" -exec mv -t ./<file path here>/ {} + #find file name cantaining "wow" and move them to another directory
 
 ```
 
