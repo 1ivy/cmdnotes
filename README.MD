@@ -45,7 +45,7 @@ ESC #get out of current mode (insert/command)
 :q! #quit without saving changes
 
 j #down ↓ 👇
-k #up ↑ ☝
+k #up ↑ 👆
 h #left ← 👈 
 l #right → 👉
 
