@@ -37,7 +37,7 @@ git status #when in doubt, git status 🧠
 
 ### Vim:
 ```shell
-
+vi README.md #create a file called README.md and open it in the magical land of Vim
 ```
 ### Linux:
 ```shell
