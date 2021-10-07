@@ -3,6 +3,7 @@
 ### Git:
 
 #### what Github says:
+```shell
 #### - new repo from cmd line:
 git init
 git add README.md
@@ -15,8 +16,9 @@ git push -u origin main
 git remote add origin <origin>
 git branch -M main
 git push -u origin main
-
-#### what works
+```
+#### what also works
+```shell
 git push --set-upstream origin main
 git push origin main
 
@@ -31,7 +33,14 @@ rm -rf .git #remove git from a directory after a wrong git init 😹
 
 git diff #show the file differences
 git status #when in doubt, git status 🧠
-
+```
 
 ### Vim:
+```shell
+
+```
 ### Linux:
+```shell
+
+```
+
