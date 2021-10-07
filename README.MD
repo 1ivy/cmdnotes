@@ -63,9 +63,9 @@ code . #open in VSCode
 CTRL ~ #open terminal in VSCode
 CTRL c #kill it now, make it stop
 
-sudo apt update && sudo apt upgrade
+`sudo apt update && sudo apt upgrade`
 
-❤ find package -> install package❤ 
+> ❤ find package => install package❤ >  
 
 sudo apt search ssh-keygen #search for ssh packages
 sudo apt install openssh-client
