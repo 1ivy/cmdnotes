@@ -38,6 +38,17 @@ git status #when in doubt, git status 🧠
 ### Vim:
 ```shell
 vi README.md #create a file called README.md and open it in the magical land of Vim
+
+i #insert mode, start editing file
+ESC #get out of current mode (insert/command)
+:wq #save changes and exit vim
+:q! #quit without saving changes
+
+j #down ↓ 👇
+k #up ↑ ☝
+h #left ← 👈 
+l #right → 👉
+
 ```
 ### Linux:
 ```shell
