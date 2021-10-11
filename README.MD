@@ -2,6 +2,9 @@
 
 ### Git:
 
+🙃 `main` is the new `master` 🙃
+༼ つ ◕_◕ ༽つ
+
 ### ✨Update✨: 
 ##### ✨The following block was copied straight from the Master's Gold Mine Vault:✨
 
