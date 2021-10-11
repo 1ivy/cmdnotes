@@ -3,7 +3,7 @@
 ### Git:
 
 ### ✨Update✨: 
-##### ✨Copied straight from the Master's Gold Mine Vault:✨
+##### ✨The following block was copied straight from the Master's Gold Mine Vault:✨
 
 ```shell
 git init # Creates a new git repository in the current directory
