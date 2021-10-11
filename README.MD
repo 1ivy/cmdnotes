@@ -6,6 +6,7 @@
 ༼ つ ◕_◕ ༽つ
 
 ### ✨Update✨: 
+
 ##### ✨The following block was copied straight from the Master's Gold Mine Vault:✨
 
 ```shell
@@ -72,6 +73,7 @@ git remote rm <remote-alias> # Remove a remote
 ```
 
 #### what Github says:
+
 ```shell
 #### - new repo from cmd line:
 git init
@@ -86,7 +88,9 @@ git remote add origin <origin>
 git branch -M main
 git push -u origin main
 ```
+
 #### what also works
+
 ```shell
 git push --set-upstream origin main
 git push origin main
@@ -124,6 +128,7 @@ h #left ← 👈
 l #right → 👉
 
 ```
+
 ### Linux:
 
 > ❤ find package => install package❤
@@ -147,3 +152,9 @@ find -name "*wow*" -exec mv -t ./<file path here>/ {} + #find file name cantaini
 
 ```
 
+#### VSCode
+
+```shell
+CTRL SHIFT p -> wordWrap # turn on text wrap in VSCode
+CTRL SHIFT p -> autosave # turn on auto savce in VSCode
+```
