@@ -152,7 +152,7 @@ find -name "*wow*" -exec mv -t ./<file path here>/ {} + #find file name cantaini
 
 ```
 
-### VSCode
+### VSCode:
 
 Note: in Windows environment, on WSL
 
