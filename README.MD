@@ -154,6 +154,8 @@ find -name "*wow*" -exec mv -t ./<file path here>/ {} + #find file name cantaini
 
 ### VSCode
 
+Note: in Windows environment, on WSL
+
 ```shell
 CTRL SHIFT p wordWrap # turn on text wrap in VSCode
 CTRL SHIFT p autosave # turn on auto savce in VSCode
