@@ -2,7 +2,7 @@
 
 ### Git:
 
-🙃 `main` is the new `master` 🙃\\
+🙃 `main` is the new `master` 🙃<br />
 ༼ つ ◕_◕ ༽つ
 
 ### ✨Update✨: 
