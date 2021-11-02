@@ -150,6 +150,18 @@ sudo apt install openssh-client
 find -name "wow*"
 find -name "*wow*" -exec mv -t ./<file path here>/ {} + #find file name cantaining "wow" and move them to another directory
 
+
+sudo apt-get remove --purge <package> #uninstall a package
+sudo apt-get autoremove #remove all dependencies that are no longer needed
+
+ping -c 3 google.com #check internet connection
+curl -I https://aws.amazon.com #check internet connection, code 200
+
+ip a #get the IP address of your system assigned by the network adapter 
+ip r #get the defult gateway IP address
+ping -c 2 <192.168.1.1> # ping to the defult gateway
+
+
 ```
 
 ### VSCode:
