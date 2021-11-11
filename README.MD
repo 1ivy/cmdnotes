@@ -161,6 +161,9 @@ ip a #get the IP address of your system assigned by the network adapter
 ip r #get the defult gateway IP address
 ping -c 2 <192.168.1.1> # ping to the defult gateway
 
+tr # translating or deleting charactoers
+column # display the contents of a file in columns
+
 
 ```
 
